@@ -3,5 +3,5 @@ def first_challenge
      :montague => {},
      :capulet => {}
    }
-   epic_tragedy
+   return epic_tragedy
 end
